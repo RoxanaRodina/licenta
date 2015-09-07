@@ -1,1 +1,713 @@
 
+<root>
+    <config>
+        <!--NOTE: Nodes are in alphabetical order-->
+        <ajax_catalog>
+            <price_slider_conf>
+                <handle_color>#000000</handle_color>
+                <background_color>#eeeeee</background_color>
+                <range_color>#555555</range_color>
+            </price_slider_conf>
+        </ajax_catalog>
+        <ajaxcart>
+            <addtocart>
+                <enablecategory>1</enablecategory>
+                <enableproduct>1</enableproduct>
+            </addtocart>
+        </ajaxcart>
+        <blog>
+            <comments>
+                <enabled>1</enabled>
+                <login>0</login>
+                <approval>0</approval>
+            </comments>
+        </blog>
+        <carriers>
+            <flatrate>
+                <active>1</active>
+                <price>69</price>
+                <handling_fee>0</handling_fee>
+                <type>O</type>
+            </flatrate>
+            <tablerate>
+                <active>0</active>
+            </tablerate>
+            <freeshipping>
+                <active>1</active>
+                <free_shipping_subtotal>1000</free_shipping_subtotal>
+                <cutoff_cost>0</cutoff_cost>
+            </freeshipping>
+            <ups>
+                <active>0</active>
+            </ups>
+            <usps>
+                <active>0</active>
+            </usps>
+            <fedex>
+                <active>0</active>
+            </fedex>
+            <dhl>
+                <active>0</active>
+            </dhl>
+            <dhlint>
+                <active>0</active>
+            </dhlint>
+        </carriers>
+        <catalogcategorysearch>
+            <general>
+                <enabled>1</enabled>
+            </general>
+        </catalogcategorysearch>
+        <cms>
+            <wysiwyg>
+                <enabled>hidden</enabled>
+            </wysiwyg>
+        </cms>
+        <checkout>
+            <options>
+                <enable_agreements>1</enable_agreements>
+                <guest_checkout>1</guest_checkout>
+            </options>
+        </checkout>
+        <contacts>
+            <email>
+                <recipient_email></recipient_email>
+            </email>
+        </contacts>
+        <cookielaw>
+            <design>
+                <position>bottom</position>
+            </design>
+        </cookielaw>
+        <currency>
+            <options>
+                <base>SEK</base>
+                <default>SEK</default>
+                <allow>SEK</allow>
+                <customsymbol><![CDATA[a:1:{s:3:"SEK";s:3:"SEK";}]]></customsymbol>
+            </options>
+        </currency>
+        <design>
+            <email>
+                <logo></logo>
+            </email>
+            <head>
+                <default_keywords>E-commerce,Freshbutik</default_keywords>
+                <default_title>Fresbutik</default_title>
+                <title_suffix>- Freshbutik</title_suffix>
+            </head>
+            <header>
+                <logo_alt>Freshbutik</logo_alt>
+            </header>
+            <package>
+                <name>freshbutik</name>
+            </package>
+            <theme>
+                <template>default</template>
+                <skin>default</skin>t
+                <layout>default</layout>
+                <default>default</default>
+            </theme>
+            <header>
+                <logo_src>images/logo.png</logo_src>
+            </header>
+        </design>
+        <freshbutik_customer>
+            <customer>
+                <hide_recurring_profiles>0</hide_recurring_profiles>
+                <hide_billing_agreement>0</hide_billing_agreement>
+                <hide_oauth_customer_tokens>0</hide_oauth_customer_tokens>
+                <hide_downloadable_products>0</hide_downloadable_products>
+            </customer>
+        </freshbutik_customer>
+        <fullajax>
+            <general>
+                <enabled>0</enabled>
+                <except>a.fancybox,a.quickview-icon,.toolbar a,.block-layered-nav a,a.fancy-images</except>
+                <except_form>search_mini_form</except_form>
+            </general>
+        </fullajax>
+        <freshbutik_catalog>
+            <products>
+                <redirect_product_review_page>1</redirect_product_review_page>
+                <special_price_position>before_old_price</special_price_position>
+            </products>
+        </freshbutik_catalog>
+        <freshbutik_sales>
+            <cart>
+                <hide_discount_code>1</hide_discount_code>
+                <hide_estimate_shipping_tax>1</hide_estimate_shipping_tax>
+            </cart>
+        </freshbutik_sales>
+        <freshbutik_social>
+            <facebook>
+                <page_url>https://www.facebook.com/pages/Freshbutik/1386802804983912</page_url>
+                <widget_label>Freshbutik</widget_label>
+            </facebook>
+            <social_login>
+                <show_in_onepagecheckout>1</show_in_onepagecheckout>
+            </social_login>
+        </freshbutik_social>
+        <general>
+            <country>
+                <default>SE</default>
+            </country>
+            <locale>
+                <code>en_GB</code>
+            </locale>
+            <store_information>
+                <name>Fresh Butik</name>
+                <phone>+40 (364) 100 152</phone>
+            </store_information>
+        </general>
+        <googleuniversalanalytics>
+            <general>
+                <active>1</active>
+            </general>
+            <mp_transactions>
+                <ecommerce>1</ecommerce>
+                <transaction_event>place_order</transaction_event>
+            </mp_transactions>
+        </googleuniversalanalytics>
+        <homeslider>
+            <general>
+                <enabled>1</enabled>
+                <slider_type>0</slider_type>
+                <static_block_id>freshbutik_homeslider</static_block_id>
+            </general>
+        </homeslider>
+        <iwdall>
+            <default>
+                <jquery>0</jquery>
+            </default>
+        </iwdall>
+        <le_sociallogin>
+            <general>
+                <showonloginpage>belowloginbox</showonloginpage>
+                <showoncheckout>1</showoncheckout>
+            </general>
+            <facebook>
+                <enabled>1</enabled>
+            </facebook>
+        </le_sociallogin>
+        <megamenu>
+            <custom>
+                <custom_links>freshbutik_custom_menu,new_products_menu_item,special_offers_menu_item,recommended_products_menu_item,brands_menu_item,contact_us_menu_item</custom_links>
+                <custom_mobile_links>freshbutik_custom_menu_mobile</custom_mobile_links>
+            </custom>
+        </megamenu>
+        <opc>
+            <global>
+                <status>1</status>
+            </global>
+            <default>
+                <discount>0</discount>
+                <payment>vaimo_klarna_invoice</payment>
+                <terms_type>1</terms_type>
+            </default>
+        </opc>
+        <payment>
+            <vaimo_klarna_checkout>
+                <active>0</active>
+            </vaimo_klarna_checkout>
+            <vaimo_klarna_invoice>
+                <active>1</active>
+                <invoice_fee>29</invoice_fee>
+            </vaimo_klarna_invoice>
+            <vaimo_klarna_account>
+                <active>0</active>
+            </vaimo_klarna_account>
+            <vaimo_klarna_special>
+                <active>0</active>
+            </vaimo_klarna_special>
+            <ccsave>
+                <active>0</active>
+            </ccsave>
+            <cashondelivery>
+                <active>0</active>
+            </cashondelivery>
+            <banktransfer>
+                <active>0</active>
+            </banktransfer>
+            <checkmo>
+                <active>0</active>
+            </checkmo>
+            <Dibspw>
+                <active>1</active>
+                <cardlogos><![CDATA[<p></p><p><a href="http://www.dibspayment.com" target="_blank">
+            <img src="{{secure_base_url}}media/wysiwyg/freshbutik/footer/dibs_payment.png" alt="" /></a></p>]]></cardlogos>
+            </Dibspw>
+        </payment>
+        <porto_design>
+            <basic>
+                <theme_color>#000000</theme_color>
+            </basic>
+            <colors>
+                <custom>1</custom>
+                <text_color></text_color>
+                <link_color></link_color>
+                <link_hover_color></link_hover_color>
+                <button_bg_color></button_bg_color>
+                <button_text_color></button_text_color>
+                <button_hover_bg_color></button_hover_bg_color>
+                <button_hover_text_color></button_hover_text_color>
+                <addtowishlist_color></addtowishlist_color>
+                <addtowishlist_hover_color></addtowishlist_hover_color>
+                <addtocompare_color></addtocompare_color>
+                <addtocompare_hover_color></addtocompare_hover_color>
+                <quickview_color></quickview_color>
+                <quickview_hover_color></quickview_hover_color>
+                <new_label_bg_color>#27ae60</new_label_bg_color>
+                <new_label_text_color></new_label_text_color>
+                <sale_label_bg_color>#e74c3c</sale_label_bg_color>
+                <sale_label_text_color></sale_label_text_color>
+                <cat_label1_bg_color></cat_label1_bg_color>
+                <cat_label1_text_color></cat_label1_text_color>
+                <cat_label2_bg_color></cat_label2_bg_color>
+                <cat_label2_text_color></cat_label2_text_color>
+                <breadcrumbs_bg_color>transparent</breadcrumbs_bg_color>
+                <breadcrumbs_color>#777777</breadcrumbs_color>
+                <breadcrumbs_links_color>#000000</breadcrumbs_links_color>
+                <breadcrumbs_links_hover_color>#000000</breadcrumbs_links_hover_color>
+            </colors>
+            <font>
+                <custom>0</custom>
+                <font_size></font_size>
+                <primary_font_family_group></primary_font_family_group>
+                <primary_font_family_custom></primary_font_family_custom>
+                <primary_font_family></primary_font_family>
+                <primary_char_latin_ext></primary_char_latin_ext>
+                <custom_char_subset></custom_char_subset>
+            </font>
+            <header>
+                <custom>1</custom>
+                <header_bgcolor>#fff</header_bgcolor>
+                <header_bg_image></header_bg_image>
+                <header_bordercolor></header_bordercolor>
+                <header_textcolor>#000</header_textcolor>
+                <header_linkcolor>#000</header_linkcolor>
+                <header_top_links_bgcolor>#fff</header_top_links_bgcolor>
+                <header_top_links_color>#000</header_top_links_color>
+                <header_menu_bgcolor>#54555e</header_menu_bgcolor>
+                <header_menu_color>#000</header_menu_color>
+                <header_menu_hover_bgcolor>#000000</header_menu_hover_bgcolor>
+                <header_menu_hover_color>#ffffff</header_menu_hover_color>
+                <header_menu_megamenu_bgcolor></header_menu_megamenu_bgcolor>
+                <header_menu_megamenu_bordercolor></header_menu_megamenu_bordercolor>
+                <header_menu_megamenu_color></header_menu_megamenu_color>
+                <header_menu_classicmenu_bgcolor></header_menu_classicmenu_bgcolor>
+                <header_menu_classicmenu_color></header_menu_classicmenu_color>
+                <header_menu_classicmenu_hover_bgcolor>#555555</header_menu_classicmenu_hover_bgcolor>
+                <header_menu_classicmenu_hover_color></header_menu_classicmenu_hover_color>
+                <header_search_bgcolor></header_search_bgcolor>
+                <header_search_color></header_search_color>
+                <header_search_text_color></header_search_text_color>
+                <header_search_bordercolor></header_search_bordercolor>
+                <header_minicart_bgcolor>#000</header_minicart_bgcolor>
+                <header_minicart_color>#fff</header_minicart_color>
+                <header_minicart_icon_color>#fff</header_minicart_icon_color>
+            </header>
+            <footer>
+                <custom>1</custom>
+                <footer_top_bgcolor></footer_top_bgcolor>
+                <footer_top_color></footer_top_color>
+                <footer_top_link_color></footer_top_link_color>
+                <footer_top_link_hover_color></footer_top_link_hover_color>
+                <footer_middle_bgcolor>#f7f7f7</footer_middle_bgcolor>
+                <footer_middle_color>#fff</footer_middle_color>
+                <footer_middle_link_color>#777777</footer_middle_link_color>
+                <footer_middle_link_hover_color>#777777</footer_middle_link_hover_color>
+                <footer_middle_title_color>#e13b3f</footer_middle_title_color>
+                <footer_middle_links_icon_color>#777777</footer_middle_links_icon_color>
+                <footer_middle_ribbon_bgcolor>#e13b3f</footer_middle_ribbon_bgcolor>
+                <footer_middle_ribbon_shadow_color>#cf3f42</footer_middle_ribbon_shadow_color>
+                <footer_middle_ribbon_color></footer_middle_ribbon_color>
+                <footer_middle_2_link_color>#fff</footer_middle_2_link_color>
+                <footer_middle_2_link_hover_color>#fff</footer_middle_2_link_hover_color>
+                <footer_middle_2_title_color>#fff</footer_middle_2_title_color>
+                <footer_middle_2_bgcolor>#2c3e50</footer_middle_2_bgcolor>
+                <footer_middle_2_links_icon_color>#fff</footer_middle_2_links_icon_color>
+                <footer_bottom_bgcolor>#ffffff</footer_bottom_bgcolor>
+                <footer_bottom_color></footer_bottom_color>
+                <footer_bottom_link_color></footer_bottom_link_color>
+                <footer_bottom_link_hover_color></footer_bottom_link_hover_color>
+                <footer_totop_bgcolor></footer_totop_bgcolor>
+                <footer_totop_hover_bgcolor></footer_totop_hover_bgcolor>
+                <footer_totop_color></footer_totop_color>
+                <footer_totop_hover_color></footer_totop_hover_color>
+            </footer>
+            <page>
+                <custom>1</custom>
+                <page_bgcolor>#ffffff</page_bgcolor>
+                <page_bg_image>stores/27/page.png</page_bg_image>
+                <page_custom_style><![CDATA[background-position:top center;background-repeat:repeat-x;]]></page_custom_style>
+            </page>
+            <main>
+                <custom>0</custom>
+                <main_bgcolor></main_bgcolor>
+                <main_bg_image></main_bg_image>
+                <main_custom_style></main_custom_style>
+            </main>
+        </porto_design>
+        <porto_settings>
+            <general>
+                <boxed>wide</boxed>
+                <out_of_box_color></out_of_box_color>
+                <out_of_box_image></out_of_box_image>
+                <rtl>0</rtl>
+                <layout>1280</layout>
+                <border_radius>1</border_radius>
+            </general>
+            <header>
+                <type>0</type>
+                <language_flag>0</language_flag>
+                <static_block>freshbutik_custom_block_for_header</static_block>
+                <static_block_2></static_block_2>
+                <menu_title></menu_title>
+                <sticky_header>1</sticky_header>
+                <sticky_header_scroll_top>100</sticky_header_scroll_top>
+            </header>
+            <footer>
+                <copyrights><![CDATA[&copy;Copyright 2015 by FreshButik. All Rights Reserved.]]></copyrights>
+                <fixed_position_footer_enabled>0</fixed_position_footer_enabled>
+                <footer_top_enabled>0</footer_top_enabled>
+                <footer_top_block></footer_top_block>
+                <footer_top_custom></footer_top_custom>
+                <footer_middle_enabled>0</footer_middle_enabled>
+                <footer_ribbon_enabled>0</footer_ribbon_enabled>
+                <footer_ribbon_text>Ribbon Text</footer_ribbon_text>
+                <footer_middle_column_1>custom</footer_middle_column_1>
+                <footer_middle_column_1_custom>freshbutik_footer_about_freshbutik</footer_middle_column_1_custom>
+                <footer_middle_column_1_size>3</footer_middle_column_1_size>
+                <footer_middle_column_2>custom</footer_middle_column_2>
+                <footer_middle_column_2_custom>freshbutik_footer_featured_products</footer_middle_column_2_custom>
+                <footer_middle_column_2_size>3</footer_middle_column_2_size>
+                <footer_middle_column_3>newsletter</footer_middle_column_3>
+                <footer_middle_column_3_custom></footer_middle_column_3_custom>
+                <footer_middle_column_3_size>3</footer_middle_column_3_size>
+                <footer_middle_column_4>custom</footer_middle_column_4>
+                <footer_middle_column_4_custom>freshbutik_footer_middle_twitter_widget</footer_middle_column_4_custom>
+                <footer_middle_column_4_size>4</footer_middle_column_4_size>
+                <footer_newsletter_title>Be the First to Know</footer_newsletter_title>
+                <footer_newsletter><![CDATA[Get all the latest information on Events,<br/>Sales and Offers. Sign up for newsletter today.]]></footer_newsletter>
+                <footer_middle_2_enabled>1</footer_middle_2_enabled>
+                <footer_middle_2_column_1>custom</footer_middle_2_column_1>
+                <footer_middle_2_column_1_custom>freshbutik_footer_links</footer_middle_2_column_1_custom>
+                <footer_middle_2_column_1_size>2</footer_middle_2_column_1_size>
+                <footer_middle_2_column_2>custom</footer_middle_2_column_2>
+                <footer_middle_2_column_2_custom>freshbutik_footer_contact_information</footer_middle_2_column_2_custom>
+                <footer_middle_2_column_2_size>4</footer_middle_2_column_2_size>
+                <footer_middle_2_column_3>custom</footer_middle_2_column_3>
+                <footer_middle_2_column_3_custom>freshbutik_footer_useful_links</footer_middle_2_column_3_custom>
+                <footer_middle_2_column_3_size>2</footer_middle_2_column_3_size>
+                <footer_middle_2_column_4>custom</footer_middle_2_column_4>
+                <footer_middle_2_column_4_custom>freshbutik_facebook_footer</footer_middle_2_column_4_custom>
+                <footer_middle_2_column_4_size>4</footer_middle_2_column_4_size>
+                <footer_middle_2_column_5>newsletter</footer_middle_2_column_5>
+                <footer_middle_2_column_5_size>12</footer_middle_2_column_5_size>
+                <footer_bottom_enabled>1</footer_bottom_enabled>
+                <footer_logo>images/logo.png</footer_logo>
+                <footer_bottom_socialicons>1</footer_bottom_socialicons>
+                <footer_bottom_custom_block>1</footer_bottom_custom_block>
+                <footer_bottom_custom_block_id>freshbutik_footer_bottom_custom_block</footer_bottom_custom_block_id>
+                <footer_bottom_custom_block_2>0</footer_bottom_custom_block_2>
+                <footer_bottom_custom_block_id_2></footer_bottom_custom_block_id_2>
+            </footer>
+            <category>
+                <alternative_image>1</alternative_image>
+                <aspect_ratio>0</aspect_ratio>
+                <ratio_width>300</ratio_width>
+                <ratio_height>300</ratio_height>
+                <compare>1</compare>
+                <fullwidth_description>0</fullwidth_description>
+            </category>
+            <category_grid>
+                <columns>4</columns>
+                <show_addtocart>1</show_addtocart>
+                <show_addtolinks>1</show_addtolinks>
+                <move_actions>0</move_actions>
+            </category_grid>
+            <product_compare>
+                <show_link>1</show_link>
+            </product_compare>
+            <product_label>
+                <new>1</new>
+                <new_label_text>NEW</new_label_text>
+                <sale>1</sale>
+                <sale_label_type>1</sale_label_type>
+                <sale_label_text>SALE</sale_label_text>
+            </product_label>
+            <product_view>
+                <aspect_ratio>1</aspect_ratio>
+                <ratio_width>600</ratio_width>
+                <ratio_height></ratio_height>
+                <prev_next>1</prev_next>
+                <prev_text><![CDATA[<i class="icon-left-open"></i>]]></prev_text>
+                <next_text><![CDATA[<i class="icon-right-open"></i>]]></next_text>
+                <disable_product_zoom>0</disable_product_zoom>
+            </product_view>
+            <newsletter_popup>
+                <enabled>0</enabled>
+            </newsletter_popup>
+            <contacts>
+                <enable>1</enable>
+                <address>Porto Store</address>
+                <latitude>-34.398</latitude>
+                <longitude>150.884</longitude>
+                <zoom>18</zoom>
+                <infoblock><![CDATA[                <div class="row"><div class="col-sm-12">
+                <i class="icon-phone"></i>
+                <p>0201 203 2032</p>
+                <p>0201 203 2032</p>
+            </div></div>
+                <div class="row"><div class="col-sm-12">
+                    <i class="icon-mobile"></i>
+                    <p>201-123-3922</p>
+                    <p>302-123-3928</p>
+                </div></div>
+                <div class="row"><div class="col-sm-12">
+                    <i class="icon-mail-alt"></i>
+                    <p>porto@gmail.com</p>
+                    <p>porto@portotemplate.com</p>
+                </div></div>
+                <div class="row"><div class="col-sm-12">
+                    <i class="icon-skype"></i>
+                    <p>porto_skype</p>
+                    <p>proto_template</p>
+                </div></div>
+            ]]></infoblock>
+            </contacts>
+            <custom_settings>
+                <custom_style><![CDATA[
+
+                        .top-container > .breadcrumbs {
+                            margin-top: 5px;
+                            margin-bottom: -15px;
+                        }
+
+                        .fixed-header ul.menu > li .nav-sublist-dropdown, .main-nav ul.menu > li .nav-sublist-dropdown, .fixed-header ul.menu > li.menu-full-width .nav-sublist-dropdown, .main-nav ul.menu > li.menu-full-width .nav-sublist-dropdown, .fixed-header ul.menu > li.menu-static-width .nav-sublist-dropdown, .main-nav ul.menu > li.menu-static-width .nav-sublist-dropdown {
+                            margin-top: 0;
+                        }
+
+                        .header-container.type4 .main-nav ul.menu > li.menu-static-width.act:hover > a, .header-container.type4 .main-nav ul.menu > li.menu-full-width.act:hover > a, .header-container.type4 .main-nav ul.menu > li.menu-item-has-children.act:hover > a {
+                            height: 54px;
+                        }
+
+                        .header-container.type4 .main-nav ul.menu > li.menu-static-width.act > a, .header-container.type4 .main-nav ul.menu > li.menu-full-width.act > a, .header-container.type4 .main-nav ul.menu > li.menu-item-has-children.act > a {
+                            height: 50px;
+                        }
+
+                        .main-nav ul.menu > li.menu-full-width.act > a:after, .main-nav ul.menu > li.menu-item-has-children.act > a:after, .main-nav ul.menu > li.menu-static-width.act > a:after {
+                            margin-top: -7px;
+                        }
+
+                        #totop {
+                            color: #fff;
+                            background-color: #000;
+                        }
+
+                        .main-nav ul.menu > li.menu-full-width.act:hover > a:after, .main-nav ul.menu > li.menu-item-has-children.act:hover > a:after, .main-nav ul.menu > li.menu-static-width.act:hover > a:after {
+                            margin-top: -9px;
+                        }
+                        .cms-index-index .header-container.type1 {
+                                background-color: #fff;
+                        }
+
+                        .header-container.type1 .header-wrapper {
+                                margin: 25px 0 0;
+                        }
+
+                        .header-container.type1 .mobile-nav.side-block .sw-mobile-menu li > a, .header-container.type1 .mobile-nav.side-block .sw-mobile-menu li > a, .header-container.type1 .mobile-nav.side-block .sw-mobile-menu li .open-child {
+                                color: #000;
+                        }
+
+                        .header-container.type1 .mobile-nav.side-block .sw-mobile-menu li > a:hover,
+                        .header-container.type1 .mobile-nav.side-block .sw-mobile-menu li > a:hover
+                        .header-container.type1 .mobile-nav.side-block .sw-mobile-menu li > a, .header-container.type1 .mobile-nav.side-block .sw-mobile-menu li .open-child  {
+                                color: #fff;
+                        }
+
+                        .header-container.type1 .links li {
+                                border-color: #fff;
+                        }
+
+                        .header-container.type4 {
+                            border-top: 0;
+                        }
+
+                        .header-container.type1 .header .logo {
+                                margin: 10px 25px 10px 10px;
+                        }
+
+                        .main-nav .menu {
+                            border-bottom: 0 !important;
+                        }
+
+                        .cms-index-index .header-container.type1 {
+                                z-index: 9999;
+                        }
+
+                        .header-container.type1 .top-links-icon a {
+                                color: #fff;
+                        }
+
+                        .cms-index-index .header-container.type1 {
+                                position: relative;
+                                background-color: #fff;
+                        }
+
+                        .mini-cart .actions a {
+                                color: #fff;
+                        }
+
+                        .mini-cart .actions a:hover {
+                                background-color: #212121;
+                        }
+
+
+@media (min-width:768px){
+    .footer-middle .col-sm-3{
+    width:22.22%
+}
+}]]></custom_style>
+            </custom_settings>
+            <product_view_custom_tab>
+                <static_block_tab_id_1>freshbutik_custom_tab</static_block_tab_id_1>
+            </product_view_custom_tab>
+        </porto_settings>
+        <sales>
+            <minimum_order>
+                <active>1</active>
+                <amount>200</amount>
+            </minimum_order>
+            <gift_options>
+                <allow_order>0</allow_order>
+                <allow_items>0</allow_items>
+            </gift_options>
+        </sales>
+        <socialicons>
+            <options>
+                <icon_image>style_1</icon_image>
+                <icon_hoverimage>style_1</icon_hoverimage>
+                <icon_width>30px</icon_width>
+                <icon_height>30px</icon_height>
+                <icon1_visible>1</icon1_visible>
+                <icon1_url>https://www.facebook.com/pages/Freshbutik/1386802804983912</icon1_url>
+                <icon1_image_position>-60px 0</icon1_image_position>
+                <icon1_title>Facebook</icon1_title>
+                <icon1_class>icon1-class</icon1_class>
+                <icon2_visible>1</icon2_visible>
+                <icon2_url>http://www.example.com/</icon2_url>
+                <icon2_image_position>-150px -90px</icon2_image_position>
+                <icon2_title>Instagram</icon2_title>
+                <icon2_class>icon_instagram-class</icon2_class>
+                <icon3_visible>0</icon3_visible>
+                <icon3_url>http://www.example.com/</icon3_url>
+                <icon3_image_position>-300px 0</icon3_image_position>
+                <icon3_title></icon3_title>
+                <icon3_class>icon3-class</icon3_class>
+                <icon4_visible>0</icon4_visible>
+                <icon4_url>http://www.example.com/</icon4_url>
+                <icon4_image_position>-90px 0</icon4_image_position>
+                <icon4_title></icon4_title>
+                <icon4_class>icon4-class</icon4_class>
+                <icon5_visible>0</icon5_visible>
+                <icon5_url>http://www.example.com/</icon5_url>
+                <icon5_image_position>-180px 0</icon5_image_position>
+                <icon5_title>Google Plus</icon5_title>
+                <icon5_class>icon5-class</icon5_class>
+                <icon6_visible>0</icon6_visible>
+                <icon6_url>http://www.example.com/</icon6_url>
+                <icon6_image_position>-150px -30px</icon6_image_position>
+                <icon6_title>Skype</icon6_title>
+                <icon6_class>icon6-class</icon6_class>
+                <icon7_visible>0</icon7_visible>
+                <icon7_url>http://www.example.com/</icon7_url>
+                <icon7_image_position>-270px -30px</icon7_image_position>
+                <icon7_title>Wordpress</icon7_title>
+                <icon7_class>icon7-class</icon7_class>
+                <icon8_visible>0</icon8_visible>
+                <icon8_url>http://www.example.com/</icon8_url>
+                <icon8_image_position>-300px -30px</icon8_image_position>
+                <icon8_title>Yahoo</icon8_title>
+                <icon8_class>icon8-class</icon8_class>
+                <icon9_visible>0</icon9_visible>
+                <icon9_url>http://www.example.com/</icon9_url>
+                <icon9_image_position>-330px -30px</icon9_image_position>
+                <icon9_title>Youtube</icon9_title>
+                <icon9_class>icon9-class</icon9_class>
+            </options>
+        </socialicons>
+        <tax>
+            <calculation>
+                <price_includes_tax>1</price_includes_tax>
+                <shipping_includes_tax>1</shipping_includes_tax>
+                <vaimo_klarna_fee_includes_tax>1</vaimo_klarna_fee_includes_tax>
+                <discount_tax>1</discount_tax>
+            </calculation>
+            <classes>
+                <shipping_tax_class>0</shipping_tax_class>
+                <vaimo_klarna_fee_tax_class>0</vaimo_klarna_fee_tax_class>
+            </classes>
+            <display>
+                <type>2</type>
+                <shipping>2</shipping>
+            </display>
+            <cart_display>
+                <price>2</price>
+                <subtotal>2</subtotal>
+                <shipping>2</shipping>
+                <vaimo_klarna_fee>2</vaimo_klarna_fee>
+                <grandtotal>1</grandtotal>
+                <full_summary>0</full_summary>
+                <zero_tax>1</zero_tax>
+            </cart_display>
+            <sales_display>
+                <price>2</price>
+                <subtotal>2</subtotal>
+                <shipping>2</shipping>
+                <vaimo_klarna_fee>2</vaimo_klarna_fee>
+                <grandtotal>1</grandtotal>
+                <full_summary>0</full_summary>
+                <zero_tax>1</zero_tax>
+            </sales_display>
+        </tax>
+        <trans_email>
+            <ident_general>
+                <email></email>
+                <name></name>
+            </ident_general>
+            <ident_sales>
+                <email></email>
+                <name></name>
+            </ident_sales>
+            <ident_support>
+                <email></email>
+                <name></name>
+            </ident_support>
+            <ident_custom1>
+                <email></email>
+                <name></name>
+            </ident_custom1>
+            <ident_custom2>
+                <email></email>
+                <name></name>
+            </ident_custom2>
+        </trans_email>
+        <web>
+            <default>
+                <cms_home_page>freshbutik_home</cms_home_page>
+                <cms_no_route>freshbutik_no_route</cms_no_route>
+            </default>
+            <cookie>
+                <cookie_restriction>0</cookie_restriction>
+            </cookie>
+        </web>
+        <zeon_manufacturer>
+            <frontend>
+                <meta_title>Brands</meta_title>
+                <manufacturers_attribute_code>brand</manufacturers_attribute_code>
+            </frontend>
+        </zeon_manufacturer>
+    </config>
+</root>
