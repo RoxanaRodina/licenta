@@ -1,0 +1,261 @@
+
+
+<root>
+    <cms_pages>
+        <cms_page>
+            <title>Freshbutik - About Us</title>
+            <identifier>about</identifier>
+            <content><![CDATA[<br/>
+<div class="entry-content">
+        <div class="row"><div class="row-wrapper container "><div class="row">
+    <div class="col-md-12">
+
+            <h2 class="word-rotator-title">
+                The New Way to
+        <strong>
+            <span class="word-rotate"><span class="word-rotate-items" style="top: 0px;">
+                <span>success.</span><span>advance.</span><span>progress.</span>
+            </span></span>
+        </strong>
+            </h2>
+    </div>
+</div></div></div><div class="row"><div class="row-wrapper container "><div class="row">
+    <div class="col-md-10">
+
+    <p class="  lead">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rutrum pellentesque imperdiet. Nulla lacinia iaculis nulla non <span class="alternative-font">metus.</span> pulvinar. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut eu risus enim, ut pulvinar lectus. Sed hendrerit nibh.
+    </p>
+    </div>
+
+    <div class="col-md-2">
+            <a class="btn btn-primary push-top" title="Join Our Team!" href="#">Join Our Team!</a>
+
+    </div>
+</div></div></div><div class="row"><div class="row-wrapper container "><div class="row">
+    <div class="col-md-12">
+            <hr class="tall"/>
+    </div>
+</div></div></div><div class="row"><div class="row-wrapper container "><div class="row">
+    <div class="col-md-8">
+
+            <h3 class="">
+                <strong>Who</strong> We Are
+            </h3>
+    <p class=" ">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur pellentesque neque eget diam posuere porta. Quisque ut nulla at nunc <a href="#">vehicula</a> lacinia. Proin adipiscing porta tellus, ut feugiat nibh adipiscing sit amet. In eu justo a felis faucibus ornare vel id metus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In eu libero ligula. Fusce eget metus lorem, ac viverra leo. Nullam convallis, arcu vel pellentesque sodales, nisi est varius diam, ac ultrices sem ante quis sem. Proin ultricies volutpat sapien, nec scelerisque ligula mollis lobortis. Curabitur pellentesque neque eget diam posuere porta. Quisque ut nulla at nunc vehicula lacinia. Proin adipiscing porta tellus, ut feugiat nibh adipiscing <span class="alternative-font">metus</span> sit amet. In eu justo a felis faucibus ornare vel id metus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In eu libero ligula. Fusce eget metus lorem, ac viverra leo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In eu libero ligula. Fusce eget metus lorem, ac viverra leo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In eu libero ligula.
+    </p>
+    </div>
+
+    <div class="col-md-4">
+
+            <div class="featured-box" style="height: auto;"><div class="box-content clearboth">
+                <h4>Behind the scenes</h4>
+                {{block type="core/template" template="socialfeeds/flickrphotos.phtml"}}
+
+
+            </div></div><!--.featured-box-->
+    </div>
+</div></div></div><div class="row"><div class="row-wrapper container "><div class="row">
+    <div class="col-md-12">
+            <hr class="tall"/>
+    </div>
+</div></div></div><div class="row"><div class="row-wrapper container "><div class="row">
+    <div class="col-md-12">
+
+            <h3 class="push-top">
+                Our <strong>History</strong>
+            </h3>
+    </div>
+</div></div></div><div class="row"><div class="row-wrapper container " style="margin-bottom: 25px;"><div class="row">
+    <div class="col-md-12">
+
+            <div class="history wow fadeInUp">
+                <div class="thumb"><img width="150" height="150" src="{{media url="wysiwyg/porto/aboutus/office-1-150x150.jpg"}}" class="attachment-thumbnail" alt="office-1"/></div>
+                <div class="featured-box" style="height: auto;"><div class="box-content">
+                    <h4><strong>2012</strong></h4>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur pellentesque neque eget diam posuere porta. Quisque ut nulla at nunc vehicula lacinia. Proin adipiscing porta tellus, Curabitur pellentesque neque eget diam posuere porta. Quisque ut nulla at nunc vehicula lacinia. Proin adipiscing porta tellus,</p>
+
+                </div></div><!--.feature-box-->
+            </div><!--.history-->
+            <div class="history wow fadeInUp">
+                <div class="thumb"><img width="150" height="150" src="{{media url="wysiwyg/porto/aboutus/office-2-150x150.jpg"}}" class="attachment-thumbnail" alt="office-2"/></div>
+                <div class="featured-box" style="height: auto;"><div class="box-content">
+                    <h4><strong>2010</strong></h4>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur pellentesque neque eget diam posuere porta. Quisque ut nulla at nunc vehicula lacinia. Proin adipiscing porta tellus, Curabitur pellentesque neque eget diam posuere porta. Quisque ut nulla at nunc vehicula lacinia.</p>
+
+                </div></div><!--.feature-box-->
+            </div><!--.history-->
+            <div class="history wow fadeInUp">
+                <div class="thumb"><img width="150" height="150" src="{{media url="wysiwyg/porto/aboutus/office-3-150x150.jpg"}}" class="attachment-thumbnail" alt="office-3"/></div>
+                <div class="featured-box" style="height: auto;"><div class="box-content">
+                    <h4><strong>2005</strong></h4>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur pellentesque neque eget diam posuere porta. Quisque ut nulla at nunc vehicula lacinia. Proin adipiscing porta tellus, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur pellentesque neque eget diam posuere porta. Quisque ut nulla at nunc vehicula lacinia. Proin adipiscing porta tellus, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur pellentesque neque eget diam posuere porta. Quisque ut nulla at nunc vehicula lacinia. Proin adipiscing porta tellus,</p>
+
+                </div></div><!--.feature-box-->
+            </div><!--.history-->
+            <div class="history wow fadeInUp">
+                <div class="thumb"><img width="150" height="150" src="{{media url="wysiwyg/porto/aboutus/office-4-150x150.jpg"}}" class="attachment-thumbnail" alt="office-4"/></div>
+                <div class="featured-box" style="height: auto;"><div class="box-content">
+                    <h4><strong>2000</strong></h4>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur pellentesque neque eget diam posuere porta. Quisque ut nulla at nunc vehicula lacinia. Proin adipiscing porta tellus, Curabitur pellentesque neque eget diam posuere porta. Quisque ut nulla at nunc vehicula lacinia. Proin adipiscing porta tellus, Curabitur pellentesque neque eget diam posuere porta. Quisque ut nulla at nunc vehicula lacinia. Proin adipiscing porta tellus,</p>
+
+                </div></div><!--.feature-box-->
+            </div><!--.history-->
+    </div>
+</div></div></div>
+    </div>]]></content>
+            <is_active>1</is_active>
+            <root_template>one_column</root_template>
+            <layout_update_xml><![CDATA[]]></layout_update_xml>
+        </cms_page>
+        <cms_page>
+            <title>404 Not Found</title>
+            <identifier>freshbutik_no_route</identifier>
+            <content><![CDATA[<h1 style="text-align:center;margin: 20px 0; font-size: 70px;margin-top:70px">404<i class="icon-doc"></i></h1>
+<p style="text-align:center; font-size: 15px;">You might want to check that URL again or head over to our <a href="{{config path="web/unsecure/base_url"}}">homepage.</a></p>]]></content>
+            <is_active>1</is_active>
+            <root_template>one_column</root_template>
+            <layout_update_xml><![CDATA[]]></layout_update_xml>
+        </cms_page>
+        <cms_page>
+            <title>New Products</title>
+            <identifier>new-products</identifier>
+            <content><![CDATA[<div id="new_products" class="owl-top-narrow">
+        {{block type="filterproducts/newproduct_home_list" name="new_products_list" column_count="4" product_count="12" template="filterproducts/grid.phtml"}}
+    </div>]]></content>
+            <is_active>1</is_active>
+            <root_template>one_column</root_template>
+            <layout_update_xml><![CDATA[]]></layout_update_xml>
+        </cms_page>
+        <cms_page>
+            <title>Special Offers</title>
+            <identifier>special-offers</identifier>
+            <content><![CDATA[<div id="special_offers" class="owl-top-narrow">
+        {{block type="filterproducts/sale_home_list" name="sale_list" column_count="4" product_count="12" template="filterproducts/grid.phtml"}}
+    </div>]]></content>
+            <is_active>1</is_active>
+            <root_template>one_column</root_template>
+            <layout_update_xml><![CDATA[]]></layout_update_xml>
+        </cms_page>
+        <cms_page>
+            <title>Recommended Products</title>
+            <identifier>recommended-products</identifier>
+            <content><![CDATA[<div id="recommended-products" class="owl-top-narrow">
+        {{block type="filterproducts/featured_home_list" name="featured_products_list" column_count="4" product_count="12" template="filterproducts/grid.phtml"}}
+    </div>]]></content>
+            <is_active>1</is_active>
+            <root_template>one_column</root_template>
+            <layout_update_xml><![CDATA[]]></layout_update_xml>
+        </cms_page>
+        <cms_page>
+            <title>Contact Us</title>
+            <identifier>contacts</identifier>
+            <content><![CDATA[]]></content>
+            <is_active>1</is_active>
+            <root_template>one_column</root_template>
+            <layout_update_xml><![CDATA[]]></layout_update_xml>
+        </cms_page>
+        <cms_page>
+            <title>Home</title>
+            <identifier>freshbutik_home</identifier>
+            <content><![CDATA[
+<div class="row">
+    <div class="col-md-3 col-lg-2-4">
+        <div class="home-side-menu-type2" style="margin-bottom:20px;">
+            <h2><i class="icon-menu"></i> SHOP CATEGORIES</h2>
+            {{block type="core/template" template="catalog/category/side_nav.phtml"}}
+        </div>
+    </div>
+    <div class="col-sm-9 col-lg-9-6">
+        <h2 style="font-size: 15px;font-weight: 600;color: #333;text-transform: uppercase;">RECOMMENDED PRODUCTS</h2>
+        <div class="move-action" style="padding: 0;background-color: #fff;">
+            {{block type="filterproducts/featured_home_list" name="featured_products_list" product_count="8" column_count="4" template="filterproducts/grid.phtml"}}
+        </div>
+    </div>
+</div>
+
+<div style="margin-top:30px">
+    <h2 class="filter-title"><span class="content"><strong>SPECIAL OFFERS</strong></span></h2>
+    <div id="special_offers" class="owl-top-narrow">
+        {{block type="filterproducts/sale_home_list" name="sale_list" product_count="12" template="filterproducts/list.phtml"}}
+    </div>
+    <script type="text/javascript">
+    jQuery(function($){
+        $("#special_offers .filter-products .owl-carousel").owlCarousel({
+            lazyLoad: true,
+            itemsCustom: [ [0, 1], [320, 1], [480, 1],[640, 2], [768, 3], [992, 4], [1200, 5], [1350, 5] ],
+            responsiveRefreshRate: 50,
+            slideSpeed: 200,
+            paginationSpeed: 500,
+            scrollPerPage: false,
+            stopOnHover: true,
+            rewindNav: true,
+            rewindSpeed: 600,
+            pagination: false,
+            navigation: true,
+            autoPlay: true,
+            navigationText:["<i class='icon-left-open'></i>","<i class='icon-right-open'></i>"]
+        });
+    });
+    </script>
+</div>
+
+<div style="margin-top:30px">
+    <h2 class="filter-title"><span class="content"><strong>NEW Products</strong></span></h2>
+    <div id="featured_product" class="owl-top-narrow">
+        {{block type="filterproducts/newproduct_home_list" name="new_products_list" product_count="12" template="filterproducts/list.phtml"}}
+    </div>
+    <script type="text/javascript">
+    jQuery(function($){
+        $("#featured_product .filter-products .owl-carousel").owlCarousel({
+            lazyLoad: true,
+            itemsCustom: [ [0, 1], [320, 1], [480, 1],[640, 2], [768, 3], [992, 4], [1200, 5], [1350, 5] ],
+            responsiveRefreshRate: 50,
+            slideSpeed: 200,
+            paginationSpeed: 500,
+            scrollPerPage: false,
+            stopOnHover: true,
+            rewindNav: true,
+            rewindSpeed: 600,
+            pagination: false,
+            navigation: true,
+            autoPlay: true,
+            navigationText:["<i class='icon-left-open'></i>","<i class='icon-right-open'></i>"]
+        });
+    });
+    </script>
+</div>
+<h2 class="filter-title" style="margin:30px 0 0;"><span class="content"><strong>Brands</strong></span></h2>
+        <div id="brands-slider-demo-7" class="owl-top-narrow">
+            {{block type="zeon_manufacturer/home" template="zeon/manufacturer/owl_list.phtml"}}
+            <script type="text/javascript">
+            jQuery(function($){
+                $("#brands-slider-demo-7 .owl-carousel").owlCarousel({
+                    lazyLoad: true,
+                    itemsCustom: [ [0, 1], [320, 1], [480, 2], [640, 3], [768, 3], [992, 5], [1200, 6] ],
+                    responsiveRefreshRate: 50,
+                    slideSpeed: 200,
+                    paginationSpeed: 500,
+                    scrollPerPage: false,
+                    stopOnHover: true,
+                    rewindNav: true,
+                    rewindSpeed: 600,
+                    pagination: false,
+                    navigation: true,
+                    autoPlay: true,
+                    navigationText:["<i class='icon-left-open'></i>","<i class='icon-right-open'></i>"]
+                });
+            });
+            </script>
+        </div>
+<style>
+
+
+</style>
+]]></content>
+            <is_active>1</is_active>
+            <root_template>one_column</root_template>
+            <layout_update_xml><![CDATA[]]></layout_update_xml>
+        </cms_page>
+    </cms_pages>
+</root>
