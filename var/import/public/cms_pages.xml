@@ -1,109 +1,195 @@
-
-
 <root>
     <cms_pages>
         <cms_page>
-            <title>Freshbutik - About Us</title>
+            <title>Om oss</title>
             <identifier>about</identifier>
             <content><![CDATA[<br/>
 <div class="entry-content">
-        <div class="row"><div class="row-wrapper container "><div class="row">
-    <div class="col-md-12">
-
-            <h2 class="word-rotator-title">
-                The New Way to
-        <strong>
-            <span class="word-rotate"><span class="word-rotate-items" style="top: 0px;">
-                <span>success.</span><span>advance.</span><span>progress.</span>
-            </span></span>
-        </strong>
-            </h2>
+        <div class="row">
+            <div class="row-wrapper container ">
+                <div class="row">
+                    <div class="col-md-12">
+           Stora Rycketofta Foder och Ridsport AB, org. 556954-2813, grundades år 2000 och har under flera år varit verksamma under namnet Helsingborg Equestrian & Pet. Men nu är det dags, i samband med vårt 15årsjubileum, att återuppta vårt ursprungliga namn. Vår hemsida <a class="level2" href="http://www.hepnet.se">www.hepnet.se</a> och <a class="level2" href="http://www.hepshop.e-butiken.se">www.hepshop.e-butiken.se</a> går nu över till <a class="level2" href="http://www.storarycketofta.se">www.storarycketofta.se</a>.
+           Vi är ett familjeägt företag som driver butiken på vår bondgård som har gått i arv sedan början av 1900-talet.
+           Allt startade i 1999 när Maria flyttade tillbaka till Sverige efter ett antal år i England. Längtan fanns att göra något med familjens stora intresse; djur, och samtidigt få en bygga upp en rörelse som kunde bli ett ytterligare en inkomstkälla på gården. Gamla svinstallet byggdes om till butik och ett blygsamt sortiment av foder och djurtillbehör fanns på hyllorna. Efter ett halvår köptes ett konkurslager upp bestående av ridsportartiklar och sen rullade det på med nya leverantörer och sortimentet utökades år för år. År 2010 hade vi  växt ur lokalerna rejält, och då var det dags att bygga om maskinhallen.
+           Vår luftiga och ljusa butik ligger på närmare 1000 kvm stor yta.
+           Tillsammans med vår personalstyrka, sköter vi försäljningen i den fysiska butiken där du finner foder och tillbehör till hästar, hundar, katter, smådjur, reptiler och lantbruksdjur. Vi har ett brett sortiment med foder för alla djur, och vi brinner för att finna rätt foder och tillskott för just ditt djur oavsett om det är en hamster eller en häst. Spannmålet är producerat på Stora Rycketoftas marker, och vi erbjuder bl.a den eftertraktade Matilda havren. Du finner kläder och utrustning som passar såväl hobbyryttaren som elitryttaren.  Alla i personalen har sin egen inriktning och kunskapsområde. Här får du tips och råd om allt som gäller djurhållning, ridning, foder och de senaste trenderna. Boka gärna tid för att komma med din häst och få hjälp med sadelutprovning av vår diplomerade personal. Vi är återförsäljare för ledande leverantörer t.ex; Pikeur, Kingsland, HV Polo, Animo, Equalityline, Horseware, Eskadron, Three-horses, Spannex, Svenska Foder, Pavo, Dodson & Horell, Royal Canin, Eukanuba, Gustaf & Evita, Källqvist, Dogman, Hansbo, Kerbl, Nova, DanRider, Emin, Tib-Horse, Eclipse, Ariat och Imazo.
+                    </div>
+                </div>
+            </div>
+        </div>
+</div>]]></content>
+            <is_active>1</is_active>
+            <root_template>one_column</root_template>
+            <layout_update_xml><![CDATA[]]></layout_update_xml>
+        </cms_page>
+        <cms_page>
+            <title>Betalning - så här enkelt går det till</title>
+            <identifier>payment-conditions</identifier>
+            <content><![CDATA[<br/>
+<div class="entry-content">
+        <div class="row">
+            <div class="row-wrapper container ">
+                <div class="row">
+                    <div class="col-md-12">
+<p>Stora Rycketofta erbjuder kortbetalning samt betalning via Klarna; konto eller faktura betalning. Fakturan får du i samband med att ordern sänds till dig och du har 14 dagar på dig att betala den. Det betyder att du får leveransen i god tid innan det är dags att betala.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+</div>]]></content>
+            <is_active>1</is_active>
+            <root_template>one_column</root_template>
+            <layout_update_xml><![CDATA[]]></layout_update_xml>
+        </cms_page>
+        <cms_page>
+            <title>Leverans</title>
+            <identifier>delivery</identifier>
+            <content><![CDATA[<br/>
+<div class="entry-content">
+    <div class="row">
+        <div class="row-wrapper container ">
+            <div class="row">
+                <div class="col-md-12">
+<p>Leveranser upp till 30 kg kostar 69 kr och alla ordar över 1000kr skickas fraktfritt! Vi skickar alla ordar med DHL. Normal leveranstid är 2 dagar, om det inte är en beställningsvara. Det uppges i produktbeskrivningen. Om du lägger ordern innan 13.00 så skickas den samma dag.</p>
+<p>När din beställning har kommit till din servicepoint, skickas ett sms eller mail till dig. Dina varor ligger kvar i 14 dagar. För icke uthämtade beställningar, tar vi ut en avgift på 200 kr för att täcka frakt och utgifter.</p>
+                </div>
+            </div>
+        </div>
     </div>
-</div></div></div><div class="row"><div class="row-wrapper container "><div class="row">
-    <div class="col-md-10">
+</div>]]></content>
+            <is_active>1</is_active>
+            <root_template>one_column</root_template>
+            <layout_update_xml><![CDATA[]]></layout_update_xml>
+        </cms_page>
+        <cms_page>
+            <title>Reklamation och ångerrätt</title>
+            <identifier>returns-and-refunds</identifier>
+            <content><![CDATA[<br/>
+<div class="entry-content">
+        <div class="row">
+            <div class="row-wrapper container ">
+                <div class="row">
+                    <div class="col-md-12">
+        <p>
+            Du har 14 dagars ångerrätt. Ångerfristen räknas från den dag du har fått hela, eller en väsentlig del av den. Returfrakten betalar du som köpare.
+            Vi står för alla skador som kan uppstå vid transport till våra kunder. Om du vid mottagandet upptäcker en skada, så ber vi dig att omedelbart anmäla det till oss. Om du byter storlek eller vara, står vi för frakten till dig!
+            Kontakta alltid oss innan du returneraren vara. Vi återbetalar hela kostnaden för varan/ varorna förutsatt att dem är oanvända och i originalemballage.
+            Retursedel medföljer i leveransen som fylls i vid retur. Observera att ångerrätten inte gäller specialbeställningar. Det går bra att returnera eller byta varor direkt i den fysiska butiken.
+            Returer måste alltid skickas med DHL eller posten. Returer skickade på annat sätt kan vi tyvärr inte hämta ut. När Stora Rycketofta har mottagit returen, betalar vi tillbaka beloppet, alternativt om du har valt Klarna, häver vi fakturan. Återbetalningen brukar ske inom två dagar efter vi har mottagit returen.
+        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+</div>]]></content>
+            <is_active>1</is_active>
+            <root_template>one_column</root_template>
+            <layout_update_xml><![CDATA[]]></layout_update_xml>
+        </cms_page>
+        <cms_page>
+            <title>Hitta till Butiken</title>
+            <identifier>where-to-find-us</identifier>
+            <content><![CDATA[<br/>
+<div class="entry-content">
+        <div class="row">
+            <div class="row-wrapper container ">
+                <div class="row">
+                    <div class="col-md-12">
+        <p>
+            Stora Rycketofta ligger härligt beläget ute på landsbygden, men endast 10 minuter från Helsingborgs centrum! Du finner oss 1 mil öster om Helsingborg.<br /><br />
 
-    <p class="  lead">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rutrum pellentesque imperdiet. Nulla lacinia iaculis nulla non <span class="alternative-font">metus.</span> pulvinar. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut eu risus enim, ut pulvinar lectus. Sed hendrerit nibh.
-    </p>
-    </div>
-
-    <div class="col-md-2">
-            <a class="btn btn-primary push-top" title="Join Our Team!" href="#">Join Our Team!</a>
-
-    </div>
-</div></div></div><div class="row"><div class="row-wrapper container "><div class="row">
-    <div class="col-md-12">
-            <hr class="tall"/>
-    </div>
-</div></div></div><div class="row"><div class="row-wrapper container "><div class="row">
-    <div class="col-md-8">
-
-            <h3 class="">
-                <strong>Who</strong> We Are
-            </h3>
-    <p class=" ">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur pellentesque neque eget diam posuere porta. Quisque ut nulla at nunc <a href="#">vehicula</a> lacinia. Proin adipiscing porta tellus, ut feugiat nibh adipiscing sit amet. In eu justo a felis faucibus ornare vel id metus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In eu libero ligula. Fusce eget metus lorem, ac viverra leo. Nullam convallis, arcu vel pellentesque sodales, nisi est varius diam, ac ultrices sem ante quis sem. Proin ultricies volutpat sapien, nec scelerisque ligula mollis lobortis. Curabitur pellentesque neque eget diam posuere porta. Quisque ut nulla at nunc vehicula lacinia. Proin adipiscing porta tellus, ut feugiat nibh adipiscing <span class="alternative-font">metus</span> sit amet. In eu justo a felis faucibus ornare vel id metus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In eu libero ligula. Fusce eget metus lorem, ac viverra leo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In eu libero ligula. Fusce eget metus lorem, ac viverra leo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In eu libero ligula.
-    </p>
-    </div>
-
-    <div class="col-md-4">
-
-            <div class="featured-box" style="height: auto;"><div class="box-content clearboth">
-                <h4>Behind the scenes</h4>
-                {{block type="core/template" template="socialfeeds/flickrphotos.phtml"}}
-
-
-            </div></div><!--.featured-box-->
-    </div>
-</div></div></div><div class="row"><div class="row-wrapper container "><div class="row">
-    <div class="col-md-12">
-            <hr class="tall"/>
-    </div>
-</div></div></div><div class="row"><div class="row-wrapper container "><div class="row">
-    <div class="col-md-12">
-
-            <h3 class="push-top">
-                Our <strong>History</strong>
-            </h3>
-    </div>
-</div></div></div><div class="row"><div class="row-wrapper container " style="margin-bottom: 25px;"><div class="row">
-    <div class="col-md-12">
-
-            <div class="history wow fadeInUp">
-                <div class="thumb"><img width="150" height="150" src="{{media url="wysiwyg/porto/aboutus/office-1-150x150.jpg"}}" class="attachment-thumbnail" alt="office-1"/></div>
-                <div class="featured-box" style="height: auto;"><div class="box-content">
-                    <h4><strong>2012</strong></h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur pellentesque neque eget diam posuere porta. Quisque ut nulla at nunc vehicula lacinia. Proin adipiscing porta tellus, Curabitur pellentesque neque eget diam posuere porta. Quisque ut nulla at nunc vehicula lacinia. Proin adipiscing porta tellus,</p>
-
-                </div></div><!--.feature-box-->
-            </div><!--.history-->
-            <div class="history wow fadeInUp">
-                <div class="thumb"><img width="150" height="150" src="{{media url="wysiwyg/porto/aboutus/office-2-150x150.jpg"}}" class="attachment-thumbnail" alt="office-2"/></div>
-                <div class="featured-box" style="height: auto;"><div class="box-content">
-                    <h4><strong>2010</strong></h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur pellentesque neque eget diam posuere porta. Quisque ut nulla at nunc vehicula lacinia. Proin adipiscing porta tellus, Curabitur pellentesque neque eget diam posuere porta. Quisque ut nulla at nunc vehicula lacinia.</p>
-
-                </div></div><!--.feature-box-->
-            </div><!--.history-->
-            <div class="history wow fadeInUp">
-                <div class="thumb"><img width="150" height="150" src="{{media url="wysiwyg/porto/aboutus/office-3-150x150.jpg"}}" class="attachment-thumbnail" alt="office-3"/></div>
-                <div class="featured-box" style="height: auto;"><div class="box-content">
-                    <h4><strong>2005</strong></h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur pellentesque neque eget diam posuere porta. Quisque ut nulla at nunc vehicula lacinia. Proin adipiscing porta tellus, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur pellentesque neque eget diam posuere porta. Quisque ut nulla at nunc vehicula lacinia. Proin adipiscing porta tellus, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur pellentesque neque eget diam posuere porta. Quisque ut nulla at nunc vehicula lacinia. Proin adipiscing porta tellus,</p>
-
-                </div></div><!--.feature-box-->
-            </div><!--.history-->
-            <div class="history wow fadeInUp">
-                <div class="thumb"><img width="150" height="150" src="{{media url="wysiwyg/porto/aboutus/office-4-150x150.jpg"}}" class="attachment-thumbnail" alt="office-4"/></div>
-                <div class="featured-box" style="height: auto;"><div class="box-content">
-                    <h4><strong>2000</strong></h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur pellentesque neque eget diam posuere porta. Quisque ut nulla at nunc vehicula lacinia. Proin adipiscing porta tellus, Curabitur pellentesque neque eget diam posuere porta. Quisque ut nulla at nunc vehicula lacinia. Proin adipiscing porta tellus, Curabitur pellentesque neque eget diam posuere porta. Quisque ut nulla at nunc vehicula lacinia. Proin adipiscing porta tellus,</p>
-
-                </div></div><!--.feature-box-->
-            </div><!--.history-->
-    </div>
-</div></div></div>
-    </div>]]></content>
+            Stora Rycketofta<br />
+            25353 Påarp<br /><br />
+            GPS: Mörarpsvägen 250
+        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+</div>]]></content>
+            <is_active>1</is_active>
+            <root_template>one_column</root_template>
+            <layout_update_xml><![CDATA[]]></layout_update_xml>
+        </cms_page>
+        <cms_page>
+            <title>Enklaste vägen hit</title>
+            <identifier>route-to-store</identifier>
+            <content><![CDATA[<br/>
+<div class="entry-content">
+        <div class="row">
+            <div class="row-wrapper container ">
+                <div class="row">
+                    <div class="col-md-12">
+        <p>
+            Kommer ni från motorvägen öster om Helsingborg, ta av vid Helsingborg Östra och fortsätt österut, förbi Vasatorps golfbana. Efter 1 km svänger du till höger mot Mörarp. När den vägen är slut, svänger du till vänster mot Mörarp. Efter 1 km, ser du skyltar med ” Påarp 4” samt ”Foder och Ridsport”. Sväng höger vid skyltarna och följ Mörarpsvägen tills ni möts av vår skylt.<br />
+            Kommer ni inifrån landet, kör mot Mörarp. Där följer nu skylten mot Påarp. När ni har kommit ca 3 km ut ur Mörarp, svänger ni in till vänster vid skylten ”Påarp 4” samt ”Foder och Ridsport”. Du finner oss 1 km in på Mörarpsvägen.<br />
+        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+</div>]]></content>
+            <is_active>1</is_active>
+            <root_template>one_column</root_template>
+            <layout_update_xml><![CDATA[]]></layout_update_xml>
+        </cms_page>
+        <cms_page>
+            <title>Beställning och orderbekräftelse</title>
+            <identifier>order-confirmation</identifier>
+            <content><![CDATA[<br/>
+<div class="entry-content">
+        <div class="row">
+            <div class="row-wrapper container ">
+                <div class="row">
+                    <div class="col-md-12">
+<p>När du har lagt en beställning på <a class="level2" href="http://www.storarycketofta.se">www.storarycketofta.se</a>, får du en orderbekräftelse till den e-post du har uppgett. I orderbekräftelsen finner du alla uppgifter om priser, produkter och leveransadress. Vänligen kontrollera att allt stämmer. Om det mot förmodan inte gör det, hör av dig till <a href="mailto:info@storarycketofta.se">info@storarycketofta.se</a> . Om du lägger ordern innan 12.30, vardagar, så skickas varorna samma dag.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+</div>]]></content>
+            <is_active>1</is_active>
+            <root_template>one_column</root_template>
+            <layout_update_xml><![CDATA[]]></layout_update_xml>
+        </cms_page>
+        <cms_page>
+            <title>Reklamationer</title>
+            <identifier>complaints</identifier>
+            <content><![CDATA[<br/>
+<div class="entry-content">
+        <div class="row">
+            <div class="row-wrapper container ">
+                <div class="row">
+                    <div class="col-md-12">
+        <p>
+            Om du märker ett fel på en vara, kontakta oss på Stora Rycketofta så vi kan hjälpa dig. Väj mellan att ringa oss på 042-227003, alternativt maila  på <a href="mailto:info@storarycketofta.se">info@storarycketofta.se</a>. Vi behöver ordernummer eller kvitto för att gå vidare med reklamationen. Maila gärna foto, så löser vi det så fort som möjligt. Vid godkända reklamationer, står vi alltid för frakten.
+            Vi tillämpar konsumentköplagen som ger dig som kund 3 års reklamationsrätt.
+        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+</div>]]></content>
+            <is_active>1</is_active>
+            <root_template>one_column</root_template>
+            <layout_update_xml><![CDATA[]]></layout_update_xml>
+        </cms_page>
+        <cms_page>
+            <title>Prices</title>
+            <identifier>prices</identifier>
+            <content><![CDATA[<br/>
+<div class="entry-content">
+        <div class="row">
+            <div class="row-wrapper container ">
+                <div class="row">
+                    <div class="col-md-12">
+<p>Alla priser visas inklusive moms. I kassan ser du den totala summan, inklusive eventuell fraktkostnad.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+</div>]]></content>
             <is_active>1</is_active>
             <root_template>one_column</root_template>
             <layout_update_xml><![CDATA[]]></layout_update_xml>
@@ -118,27 +204,41 @@
             <layout_update_xml><![CDATA[]]></layout_update_xml>
         </cms_page>
         <cms_page>
-            <title>New Products</title>
+            <title>Nya Produkter</title>
             <identifier>new-products</identifier>
             <content><![CDATA[<div id="new_products" class="owl-top-narrow">
-        {{block type="filterproducts/newproduct_home_list" name="new_products_list" column_count="4" product_count="12" template="filterproducts/grid.phtml"}}
     </div>]]></content>
             <is_active>1</is_active>
             <root_template>one_column</root_template>
-            <layout_update_xml><![CDATA[]]></layout_update_xml>
+            <layout_update_xml><![CDATA[
+<reference name="content">
+    <block type="freshbutik_catalog/products_list_new" name="freshbutik_new_products_list" template="catalog/product/list.phtml">
+         <block type="catalog/product_list_toolbar" name="product_list_toolbar" template="catalog/product/list/toolbar.phtml">
+         <block type="page/html_pager" name="product_list_toolbar_pager" />
+         </block>
+         <action method="setToolbarBlockName"><name>product_list_toolbar</name></action>
+    </block>
+</reference>]]></layout_update_xml>
         </cms_page>
         <cms_page>
-            <title>Special Offers</title>
+            <title>Erbjudande</title>
             <identifier>special-offers</identifier>
             <content><![CDATA[<div id="special_offers" class="owl-top-narrow">
-        {{block type="filterproducts/sale_home_list" name="sale_list" column_count="4" product_count="12" template="filterproducts/grid.phtml"}}
     </div>]]></content>
             <is_active>1</is_active>
             <root_template>one_column</root_template>
-            <layout_update_xml><![CDATA[]]></layout_update_xml>
+            <layout_update_xml><![CDATA[
+<reference name="content">
+    <block type="freshbutik_catalog/products_list_sale" name="freshbutik_sale_products_list" template="catalog/product/list.phtml">
+        <block type="catalog/product_list_toolbar" name="product_list_toolbar" template="catalog/product/list/toolbar.phtml">
+        <block type="page/html_pager" name="product_list_toolbar_pager" />
+    </block>
+    <action method="setToolbarBlockName"><name>product_list_toolbar</name></action>
+    </block>
+</reference>]]></layout_update_xml>
         </cms_page>
         <cms_page>
-            <title>Recommended Products</title>
+            <title>Rekommenderade Produkter</title>
             <identifier>recommended-products</identifier>
             <content><![CDATA[<div id="recommended-products" class="owl-top-narrow">
         {{block type="filterproducts/featured_home_list" name="featured_products_list" column_count="4" product_count="12" template="filterproducts/grid.phtml"}}
@@ -148,7 +248,7 @@
             <layout_update_xml><![CDATA[]]></layout_update_xml>
         </cms_page>
         <cms_page>
-            <title>Contact Us</title>
+            <title>Kontakt oss</title>
             <identifier>contacts</identifier>
             <content><![CDATA[]]></content>
             <is_active>1</is_active>
@@ -156,18 +256,43 @@
             <layout_update_xml><![CDATA[]]></layout_update_xml>
         </cms_page>
         <cms_page>
-            <title>Home</title>
+            <title>Kontakta oss</title>
+            <identifier>contact-us</identifier>
+            <content><![CDATA[<br/>
+<div class="entry-content">
+        <div class="row">
+            <div class="row-wrapper container ">
+                <div class="row">
+                    <div class="col-md-12">
+        <p>
+            Du kan alltid kontakta oss på 042-227003 under våra öppettider;<br /><br />
+
+            Måndag-fredag 10.00-18.00<br />
+            Lördag &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10.00-14.00<br /><br />
+            Det går också bra att nå oss via mail; <a href="mailto:info@storarycketofta.se">info@storarycketofta.se</a>. Ha gärna ditt ordernummer tillhanda så hjälper vi dig snabbare.
+        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+</div>]]></content>
+            <is_active>1</is_active>
+            <root_template>one_column</root_template>
+            <layout_update_xml><![CDATA[]]></layout_update_xml>
+        </cms_page>
+        <cms_page>
+            <title>Hem</title>
             <identifier>freshbutik_home</identifier>
             <content><![CDATA[
 <div class="row">
     <div class="col-md-3 col-lg-2-4">
         <div class="home-side-menu-type2" style="margin-bottom:20px;">
-            <h2><i class="icon-menu"></i> SHOP CATEGORIES</h2>
+            <h2><i class="icon-menu"></i> Kategorier</h2>
             {{block type="core/template" template="catalog/category/side_nav.phtml"}}
         </div>
     </div>
     <div class="col-sm-9 col-lg-9-6">
-        <h2 style="font-size: 15px;font-weight: 600;color: #333;text-transform: uppercase;">RECOMMENDED PRODUCTS</h2>
+        <h2 style="font-size: 15px;font-weight: 600;color: #333;text-transform: uppercase;">Topplistan</h2>
         <div class="move-action" style="padding: 0;background-color: #fff;">
             {{block type="filterproducts/featured_home_list" name="featured_products_list" product_count="8" column_count="4" template="filterproducts/grid.phtml"}}
         </div>
@@ -175,7 +300,7 @@
 </div>
 
 <div style="margin-top:30px">
-    <h2 class="filter-title"><span class="content"><strong>SPECIAL OFFERS</strong></span></h2>
+    <h2 class="filter-title"><span class="content"><strong>Erbjudande</strong></span></h2>
     <div id="special_offers" class="owl-top-narrow">
         {{block type="filterproducts/sale_home_list" name="sale_list" product_count="12" template="filterproducts/list.phtml"}}
     </div>
@@ -201,7 +326,7 @@
 </div>
 
 <div style="margin-top:30px">
-    <h2 class="filter-title"><span class="content"><strong>NEW Products</strong></span></h2>
+    <h2 class="filter-title"><span class="content"><strong>Nya Produkter</strong></span></h2>
     <div id="featured_product" class="owl-top-narrow">
         {{block type="filterproducts/newproduct_home_list" name="new_products_list" product_count="12" template="filterproducts/list.phtml"}}
     </div>
@@ -225,7 +350,7 @@
     });
     </script>
 </div>
-<h2 class="filter-title" style="margin:30px 0 0;"><span class="content"><strong>Brands</strong></span></h2>
+<h2 class="filter-title" style="margin:30px 0 0;"><span class="content"><strong>Varumärken</strong></span></h2>
         <div id="brands-slider-demo-7" class="owl-top-narrow">
             {{block type="zeon_manufacturer/home" template="zeon/manufacturer/owl_list.phtml"}}
             <script type="text/javascript">
@@ -253,6 +378,15 @@
 
 </style>
 ]]></content>
+            <is_active>1</is_active>
+            <root_template>one_column</root_template>
+            <layout_update_xml><![CDATA[]]></layout_update_xml>
+        </cms_page>
+        <cms_page>
+            <title>503 Service Otillgänglig</title>
+            <identifier>service-unavailable</identifier>
+            <content><![CDATA[<div class="page-title"><h1>Vi är offline...</h1></div>
+<p>... men bara för en stund. Vi arbetar på att göra Stora Rycketofta till en bättre plats för dig!</p>]]></content>
             <is_active>1</is_active>
             <root_template>one_column</root_template>
             <layout_update_xml><![CDATA[]]></layout_update_xml>
