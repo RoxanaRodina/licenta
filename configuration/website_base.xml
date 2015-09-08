@@ -1,0 +1,12 @@
+<root>
+    <config>
+        <!--NOTE: Nodes are in alphabetical order-->
+        <shipping>
+            <origin>
+                <country_id>SE</country_id>
+                <region_id></region_id>
+                <postcode></postcode>
+            </origin>
+        </shipping>
+    </config>
+</root>
