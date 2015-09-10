@@ -132,6 +132,13 @@
                 <special_price_position>before_old_price</special_price_position>
             </products>
         </freshbutik_catalog>
+        <freshbutik_general>
+            <client_config>
+                <git_user_name>rocsana</git_user_name>
+                <git_repository_public>licenta</git_repository_public>
+                <git_repository_private>test</git_repository_private>
+            </client_config>
+        </freshbutik_general>
         <freshbutik_sales>
             <cart>
                 <hide_discount_code>1</hide_discount_code>
